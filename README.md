@@ -32,7 +32,7 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](/Screenshot%20from%202023-01-21%2020-42-00.png)
 
 
 ## Result:
